@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nonnimaeju5 learning to become a full-stack developer 
-- 👀 I’m interested in well of course tech related and programming stuff, sports, outdoor activites, music, meditation and coding. 
+- 👀 I’m interested in coding, web design, sports, outdoor activites, music, drumming, meditation, stoicism and being a devoted father. 
 - 🌱 I’m currently learning Web Development in Vefskólinn
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
