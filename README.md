@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jón Ólafur and i am currently learning to become a full-stack developer.
+- 👋 Hi, I’m Jón Ólafur a Software Developer
 - 👀 I’m interested in coding front-end and back-end, music, drumming, sports and being with my family and friends. 
-- 🌱 I’m currently learning Web Development in Vefskólinn or Reykjavík Web Development Academy.
+- 🌱 Graduated from Vefskólinn or Reykjavík Web Development Academy.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
 
