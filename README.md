@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Jón Ólafur a Software Developer
-- 👀 I’m interested in coding front-end and back-end, music, drumming, sports and being with my family and friends. 
-- 🌱 Graduated from Vefskólinn or Reykjavík Web Development Academy.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? 
+<h1 display="inline-block" align="center">Hi 👋, I'm Jón Ólafur a Software Developer</h1> 
 
-<!---
-jonolafur/jonolafur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p> -->
+<p align='center'>
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=ffffff&logo=Git&logoColor=F05032&label="  height="32 alt="Git logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=javascript&color=ffffff&logo=javascript&logoColor=F7DF1E&label=" height="32 alt="Javascript logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=typescript&color=ffffff&logo=typescript&logoColor=3178C6&label=" height="32 alt="Typescript logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=ffffff&logo=React&logoColor=61DAFB&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextUI&color=ffffff&logo=NextUI&logoColor=000000&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Shadcn/UI&color=ffffff&logo=ShadcnUI&logoColor=000000&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=NextJS&color=ffffff&logo=Next.JS&logoColor=000000&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=TailwindCss&color=ffffff&logo=TailwindCss&logoColor=06B6D4&label="  height="32 alt="React logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=ffffff&logo=Django&logoColor=000000&label="  height="32 alt="Django logo" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDb&color=ffffff&logo=MongoDb&logoColor=47A248&label="  height="32 alt="MongoDB logo" />
+</p>
